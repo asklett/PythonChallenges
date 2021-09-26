@@ -1,0 +1,10 @@
+Create a script that prints the output of the "Boom Clap" game, which goes as such:
+1. Decide on a set of rules. This will consist of a set of numbers and assositate words
+2. Start from 1 and count up in increments of 1, and print the number to the screen
+3. If the number is a multiple of one of the "rule numbers", then print the word instead of the number.
+4. If the number is a multiple of more than one number, print out all words
+
+
+Ex.
+Rules: 3-->Boom, 5-->Clap
+Print: 1, 2, Boom, 4, Clap, Boom, 7, 8, Boom, Clap, 11, Boom, 13, 14, Boom Clap, 
